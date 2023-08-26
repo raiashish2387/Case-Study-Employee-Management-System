@@ -1,0 +1,9 @@
+# Case Study: **Employee Management System**
+
+## Questions
+
+1. Calculate the total salary expenditure for each department and display the departments in descending order of the total salary expenditure.
+2. Retrieve the employees who have at least two subordinates.
+3. Calculate the average salary for each department, considering only employees with a salary greater than the department average.
+4. Find the employees who have the highest salary in their respective departments.
+5. Calculate the running total of salaries for each department, ordered by department ID and employee name.
