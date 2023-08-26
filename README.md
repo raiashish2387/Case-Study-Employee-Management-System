@@ -1,2 +1,2 @@
 # Case-Study-Employee-Management-System
-Data Analysis on Employee Management System
+In this case study, we will analyze employee data for an comapny "Employee Management System". The dataset consists of two tables: Departments & Employees. Our objective is to gain insights into employee salary, department wise salary expenditure, maximum salary of an employee and running total. We will utilize CTEs (Common Table Expression),subqueries, group by,order by and  having clause to combine data from multiple tables, extract specific information, and perform complex filtering and calculations. By applying these techniques, we will analyze employee salary distribution and their expenditure among departments. 
